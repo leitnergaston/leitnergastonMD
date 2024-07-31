@@ -5,7 +5,7 @@
 # 💫 sobre mi:
 </> Tengo 26 años, estudio Ingeniera en Sistemas y me apasiona la tecnologia y desarrollar ideas. <br></> Tengo conocimientos en Java, Sql y sigo aprendiendo sobre Desarrollo web (html, css, js).
 
-# Les dejo mi portfolio -> leitnergaston.netlify.app
+# Les dejo mi portfolio -> https://leitnergaston.netlify.app
 # Mi mail de contacto -> leitnergaston@gmail.com
 
 
