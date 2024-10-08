@@ -3,9 +3,9 @@
 <hr>
 
 # 💫 sobre mi:
-</> Tengo 26 años, estudio Ingeniera en Sistemas y me apasiona la tecnologia y desarrollar ideas. <br></> Tengo conocimientos en Java, Sql y sigo aprendiendo sobre Desarrollo web (html, css, js).
+</> Tengo 26 años, Me apasiona diseñar y desarrollar programas intuitivos y modernos. <br></> Tengo conocimientos en Java, Sql, html, css y sigo aprendiendo sobre Desarrollo web (html, css, js) y (spring boot en java).
 
-# Les dejo mi portfolio -> https://leitnergaston.netlify.app
+# Les dejo mi portfolio -> https://leitnergaston.vercel.app/
 # Mi mail de contacto -> leitnergaston@gmail.com
 
 
